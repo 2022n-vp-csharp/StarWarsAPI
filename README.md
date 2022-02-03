@@ -31,7 +31,7 @@ A Range attribútumhoz szükség lesz a System.ComponentModel.DataAnnotations k�
 - Az osztálynak legyen egy privát változója a context osztályról.
 - Legyen egy paraméteres konstruktora, ami értéket ad a context változónak.
 
-A Controller osztályok végpontjait tesztelje majd a **Postman** alkalmazás segítéségével. Post üzenet esetén összetett adatokat a **Body** fülön, **raw** rádiógombbal, **JSON** formátumban adhat meg.
+A Controller osztályok végpontjait tesztelje majd a **Postman** alkalmazás segítéségével. POST üzenet esetén összetett adatokat a **Body** fülön, **raw** rádiógombbal, **JSON** formátumban adhat meg.
 
 **7.)** Hozzon létre egy _string_ típusú (publikus) végpontot _Helyszin_ néven, ami paraméterként egy _Koordinata típusú_ változót vár. A végpontot csak HTTP POST metódussal lehessen elérni. Alapértelmezetten üzenetként adja vissza, hogy „A térképen nem szerepel ez a helység.&quot;.
 
