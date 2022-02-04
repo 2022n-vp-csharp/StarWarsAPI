@@ -1,4 +1,4 @@
-**Menekülés a Halálcsillagról**
+# Menekülés a Halálcsillagról
 
 Luke Skywalker és csapata és az Ezeréves Sólyom legénysége, kiszeretné szabadítani Leila hercegnőt a Halálcsillagról. Droidjai, R2-D2 és C3-PO sikeresen bejutott a vezérlőközpontba, ahol navigálni tudják a csapat többi tagját.
  A mellékelt segédeszközökkel segítsen meghatározni a csapattagok pontos helyét, és kijutni a Halálcsillagról.
