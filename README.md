@@ -15,7 +15,7 @@ Luke Skywalker és csapata és az Ezeréves Sólyom legénysége, kiszeretné sz
 
 A **Package Manager Console** felületén adja ki a kiegészített parancsot. Ezzel a paranccsal sikerül lemodellezni az adatbázis táblákat és elkészíti a context osztályt is.
 
-**4.)** A _Startup.cs_ fájlban a ConfigureServices metódusnál adja hozzá az _AddDbContext_ függőséget.
+**4.)** A _Program.cs_ fájlban adja hozzá az _AddDbContext_ függőséget.
 
 **5.)** Hozzon létre a _Models_ mappában egy _Koordinata_ osztályt. Az osztálynak az alábbi értékei legyenek:
 
